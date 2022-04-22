@@ -17,7 +17,7 @@
   <img align="center" alt="VS code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg">
     
   
-  <img align="right" alt="Vicente-pic" height="150" style="border-radius:50px;" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9989d945-258d-4b37-b075-5b9e61a67d2f/db9mlnd-3898aa69-7976-4c89-bb22-77a612aef0bb.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzk5ODlkOTQ1LTI1OGQtNGIzNy1iMDc1LTViOWU2MWE2N2QyZlwvZGI5bWxuZC0zODk4YWE2OS03OTc2LTRjODktYmIyMi03N2E2MTJhZWYwYmIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.adcrg9hHOZinX7cOoY51M9lgk3qmOM5UScWaPZB9DFg">
+  <img align="right" alt="Vicente-pic" height="150" style="border-radius:50px;" src="https://i.gifer.com/origin/4d/4d01b77bbaa8702885051127445cf662_w200.gif">
 </div>
   
   ##
