@@ -16,7 +16,7 @@
     <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif](https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp?cid=ecf05e47olr9cd5tdwtl39lu0uw0crdse6tbguu14c9s3dhm&rid=200w.webp&ct=s)" width="50" />
     <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif](https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp?cid=ecf05e47olr9cd5tdwtl39lu0uw0crdse6tbguu14c9s3dhm&rid=200w.webp&ct=s)" width="50" />
     <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif](https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp?cid=ecf05e47olr9cd5tdwtl39lu0uw0crdse6tbguu14c9s3dhm&rid=200w.webp&ct=s)" width="50" />
-    
+    <img align="right" alt="Vicente-pic" height="150" style="border-radius:50px;" src="https://i.gifer.com/origin/4d/4d01b77bbaa8702885051127445cf662_w200.gif">
   </div>
   
   ##
