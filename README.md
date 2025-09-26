@@ -38,8 +38,6 @@ Desenvolver soluções tecnológicas inovadoras que atendam às necessidades do 
 - **React** - Biblioteca JavaScript para construção de interfaces de usuário
 - **Next.js** - Framework React com otimizações de performance e SEO
 - **TypeScript** - Superset do JavaScript com tipagem estática
-- **Tailwind CSS** - Framework CSS utilitário para design responsivo
-- **Redux/Zustand** - Gerenciamento de estado global da aplicação
 
 ### 🕸️ **Backend**
 - **Node.js** - Runtime JavaScript para desenvolvimento server-side
