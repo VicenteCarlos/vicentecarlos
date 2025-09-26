@@ -1,40 +1,102 @@
-### Aooba, bão? Vicente Carlos aqui! 🚀
-### 🚨🚨 Full Stack Developer!! 🚨🚨 
+# 🕷️ **Vicente S. - FullStack Developer**
+
+> *"Com grandes poderes vêm grandes responsabilidades"* - Uncle Ben
 
 <div align="center">
-  <a href="https://github.com/vicentecarlos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vicentecarlos&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicentecarlos&layout=compact&langs_count=7&theme=maroongold"/>
+  <img src="https://wallpapers.com/images/hd/spider-man-comic-7v7z18wgya32repe.jpg" alt="Spider-Man Comic" width="400"/>
 </div>
+
+[![Spider-Man](https://img.shields.io/badge/Spider--Man-Web%20Slinger-red?style=for-the-badge&logo=marvel)](https://github.com/vicente-s)
+[![FullStack](https://img.shields.io/badge/FullStack-Developer-blue?style=for-the-badge)](https://github.com/vicente-s)
+[![React](https://img.shields.io/badge/React-18+-61DAFB?style=for-the-badge&logo=react)](https://reactjs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-14+-000000?style=for-the-badge&logo=next.js)](https://nextjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-18+-339933?style=for-the-badge&logo=node.js)](https://nodejs.org/)
+[![NestJS](https://img.shields.io/badge/NestJS-11+-E0234E?style=for-the-badge&logo=nestjs)](https://nestjs.com/)
+
+---
+
+## ��️ **Sobre Mim**
+
+<div align="center">
+  <img src="https://www.planocritico.com/wp-content/uploads/2017/07/spider-man.jpg" alt="Spider-Man" width="300"/>
+</div>
+
+Olá! Sou **Vicente S.**, desenvolvedor FullStack Pleno com expertise em React/Next.js para frontend e Node.js/NestJS para backend. Especializado em desenvolvimento de aplicações web modernas, escaláveis e de alta performance.
+
+### 🎯 **Minha Missão**
+Desenvolver soluções tecnológicas inovadoras que atendam às necessidades do mercado, priorizando qualidade, segurança e experiência do usuário.
+
+---
+
+## 🚀 **Stack Tecnológica**
+
+<div align="center">
+  <img src="https://i.pinimg.com/736x/dc/fd/55/dcfd55d460ba1d651d1ed16bd93f2377.jpg" alt="Spider-Man Web" width="250"/>
+</div>
+
+### 🕸️ **Frontend**
+- **React** - Biblioteca JavaScript para construção de interfaces de usuário
+- **Next.js** - Framework React com otimizações de performance e SEO
+- **TypeScript** - Superset do JavaScript com tipagem estática
+- **Tailwind CSS** - Framework CSS utilitário para design responsivo
+- **Redux/Zustand** - Gerenciamento de estado global da aplicação
+
+### 🕸️ **Backend**
+- **Node.js** - Runtime JavaScript para desenvolvimento server-side
+- **NestJS** - Framework Node.js com arquitetura modular e escalável
+- **PostgreSQL** - Sistema de gerenciamento de banco de dados relacional
+- **Redis** - Banco de dados em memória para cache e sessões
+- **Docker** - Plataforma de containerização para deploy e desenvolvimento
+
+### 🛠️ **Ferramentas**
+- **Git** - Sistema de controle de versão distribuído
+- **AWS/Azure** - Plataformas de cloud computing
+- **MongoDB** - Banco de dados NoSQL orientado a documentos
+- **GraphQL** - Query language e runtime para APIs
+- **WebSocket** - Protocolo de comunicação em tempo real
+
+---
+
+##️ **Contato**
+
+<div align="center">
+  <img src="https://i.pinimg.com/originals/cb/8a/d7/cb8ad766e33ec13d5f60872e547a6b29.gif" alt="Spider-Man GIF" width="300"/>
+</div>
+
+### 📧 **Canais de Comunicação**
+- **Email**: [vicentecarloshehe@gmail.com](mailto:vicentecarloshehe@gmail.com)
+- **LinkedIn**: [Vicente S. - FullStack Developer](https://www.linkedin.com/in/vicente-carlos-silva/)
+- **GitHub**: [@vicentecarlos](https://github.com/VicenteCarlos)
+- **Portfolio**: [spiderdev.vercel.app]
+
+### 🕷️ **Disponibilidade**
+- **Status**: 🟢 Disponível para novos projetos
+- **Modalidade**: Remoto/Híbrido
+- **Horário**: Flexível (timezone: GMT-3)
+- **Idiomas**: Português (nativo), Inglês (básico)
+
+---
+
+##️ **Citação Favorita**
+
+> *"O ser humano é aquilo que a educação faz dele."*
+
+---
+
+<div align="center">
+  <img src="https://giffiles.alphacoders.com/143/143538.gif" alt="Spider-Man GIF" width="400"/>
   
-  <div style="display: inline_block"><br>
-   <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif](https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp?cid=ecf05e47olr9cd5tdwtl39lu0uw0crdse6tbguu14c9s3dhm&rid=200w.webp&ct=s)" width="50" />
-    <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif](https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp?cid=ecf05e47olr9cd5tdwtl39lu0uw0crdse6tbguu14c9s3dhm&rid=200w.webp&ct=s)" width="50"/>
-    <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif](https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp?cid=ecf05e47olr9cd5tdwtl39lu0uw0crdse6tbguu14c9s3dhm&rid=200w.webp&ct=s)" width="50" />
-    <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif](https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp?cid=ecf05e47olr9cd5tdwtl39lu0uw0crdse6tbguu14c9s3dhm&rid=200w.webp&ct=s)" width="50" />
-    <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif](https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp?cid=ecf05e47olr9cd5tdwtl39lu0uw0crdse6tbguu14c9s3dhm&rid=200w.webp&ct=s)" width="50" />
-    <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif](https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp?cid=ecf05e47olr9cd5tdwtl39lu0uw0crdse6tbguu14c9s3dhm&rid=200w.webp&ct=s)" width="50" />
-    <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif](https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp?cid=ecf05e47olr9cd5tdwtl39lu0uw0crdse6tbguu14c9s3dhm&rid=200w.webp&ct=s)" width="50" />
-    <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif](https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp?cid=ecf05e47olr9cd5tdwtl39lu0uw0crdse6tbguu14c9s3dhm&rid=200w.webp&ct=s)" width="50" />
-    <img align="right" alt="Vicente-pic" height="150" style="border-radius:50px;" src="https://i.gifer.com/origin/4d/4d01b77bbaa8702885051127445cf662_w200.gif">
-  </div>
+  <br/>
   
-  ##
+  <strong>🕷️ "Com grandes códigos vêm grandes responsabilidades" 🕷️</strong>
   
-  ### 💬 Interaja comigo: 
+  <br/>
   
-  <div>
-    <a href="https://www.instagram.com/vicente.carlos04/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="https://discord.gg/pDxbmrzNaJ" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-    <a href = "mailto:vicentecarloshehe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/vicente-carlos-silva-6443941b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" target="_blank"> 
-  </div>
-  
-  ##
-  
-  <div>
-    <img src="https://media1.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif?cid=ecf05e478orvntgt9lwfsgr56umgq2f01shvhd51wrfb76jn&rid=giphy.gif&ct=s" width="300"/>
-    <img src="https://media1.giphy.com/media/cUAGuLiEcTBwRfkAQq/giphy.gif?cid=ecf05e471r5czoen3wxiuurpwu9dcw6kn58fx6tyoyc5su5a&rid=giphy.gif&ct=s" width="300"/>
-    <img src="https://media1.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif?cid=ecf05e478lacgyighhpup45oi1li5rkxnx9ge8xqf86bzkzd&rid=giphy.gif&ct=s" width="300"/>
-  </div>
+  <em>Desenvolvendo o futuro, uma linha de código por vez</em>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=vicente-s&label=Profile%20views&color=red&style=flat" alt="Profile views" />
+</div>
